@@ -1,0 +1,52 @@
+[
+    {
+        "alumno": "Marcell Soler Torres",
+        "nota": 10,
+        "ranking": 1
+    },
+    {
+        "alumno": "Andres",
+        "nota": 9,
+        "ranking": 2
+    },
+    {
+        "alumno": "Jose",
+        "nota": 8,
+        "ranking": 3
+    },
+    {
+        "alumno": "Juan",
+        "nota": 7,
+        "ranking": 4
+    },
+    {
+        "alumno": "Pepe",
+        "nota": 6,
+        "ranking": 5
+    },
+    {
+        "alumno": "Guillermo",
+        "nota": 5,
+        "ranking": 6
+    },
+    {
+        "alumno": "Roberto",
+        "nota": 4,
+        "ranking": 7
+    },
+    {
+        "alumno": "Alejandra",
+        "nota": 3 ,
+        "ranking": 8 
+    },
+    {
+        "alumno": "María",
+        "nota": 2,
+        "ranking":9 
+    },
+    {
+        "alumno": "Julia",
+        "nota": 1,
+        "ranking":10 
+    }
+]
